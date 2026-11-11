@@ -1,16 +1,17 @@
-## Hi there 👋
+# Анастасия Антонова
+**Junior Frontend Developer**
 
-<!--
-**NassiYo/NassiYo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разрабатываю адаптивные веб-интерфейсы с использованием HTML, CSS и JavaScript. Работаю с дизайн-макетами, применяю методологию БЭМ, SCSS и современные инструменты вёрстки.
 
-Here are some ideas to get you started:
+HTML5 · CSS3 · SCSS · JavaScript · БЭМ · Flexbox · CSS Grid · Git · GitHub · Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Проекты
+
+- [Furniture Store](https://nassiyo.github.io/furniture-store/) — адаптивный многостраничный сайт интернет-магазина мебели.
+- [JavaScript Mini Games](https://nassiyo.github.io/javascript-mini-games/) — коллекция из шести интерактивных игр.
+- [Comments App](https://nassiyo.github.io/comments-app/) — интерфейс комментариев с лайками и валидацией формы.
+
+### Контакты
+
+- **Telegram:** [@Nassi_Yo](https://t.me/Nassi_Yo)
+- **Email:** [alyunova@yandex.ru](mailto:alyunova@yandex.ru)
